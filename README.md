@@ -1,10 +1,2 @@
 # Desafios de Lógica em Python
-Neste repositório há desafios de lógica em Python, são eles:
-
-### Carrinho de Compra
-### Amigo Secreto
-### Compra de Ingresso
-
-## Como executar
-
-## Licenças
+Neste repositório há desafios de lógica em Python, como por exemplo: simular um carrinho de compra em que o total é influenciado pelo número de vezes que um produto é adicionado ao carrinho multiplicando o preço unitário do produto; criar o jogo do amigo secreto em que foram necessárias duas listas, sendo uma delas embaralhadas para que não houvesse repetição e nem que a pessoa pudesse retirar a si mesma, para mim foi um desafio interessante, e por fim simular a compra de ingressos para um evento e conforme os ingressos eram comprados a quantidade de ingressos diminuia.
